@@ -1,9 +1,9 @@
 [
   {
     "remote": "github",
-    "repository": "TipsyOs-Devices/device_oppo_common",
+    "repository": "Phoenix-Devices/device_oppo_common",
     "target_path": "device/oppo/common",
-    "branch": "6.0"
+    "branch": "mm6.0"
   },
   {
     "remote": "github",

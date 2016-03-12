@@ -63,6 +63,10 @@ TARGET_SCREEN_WIDTH := 1080
 PRODUCT_PACKAGES += \
     SnapdragonCamera
 
+# TugaPower
+PRODUCT_PACKAGES += \
+    Browser
+
 # Charger
 PRODUCT_PACKAGES += \
     charger_res_images
